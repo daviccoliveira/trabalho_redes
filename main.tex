@@ -9,8 +9,8 @@
 \documentclass[
 	% -- opções da classe memoir --
 	12pt,					% tamanho da fonte
-	openright,				% capítulos começam em pág ímpar (insere página vazia caso preciso)
-	twoside,					% para impressão em verso e anverso. Oposto a oneside
+	book,				% capítulos começam em pág ímpar (insere página vazia caso preciso)
+	oneside,					% para impressão em verso e anverso. Oposto a oneside
 	a4paper,					% tamanho do papel. 
 	% -- opções da classe abntex2 --
 	%chapter=TITLE,			% títulos de capítulos convertidos em letras maiúsculas
@@ -33,10 +33,11 @@
 \usepackage{lastpage}			% Usado pela Ficha catalográfica
 \usepackage{indentfirst}			% Indenta o primeiro parágrafo de cada seção.
 \usepackage{color}				% Controle das cores
-\usepackage{graphicx,graphicx}	% Inclusão de gráficos
+\usepackage{graphicx}	% Inclusão de gráficos
+\graphicspath{{figs/}}
 \usepackage{epsfig,subfig}		% Inclusão de figuras
 \usepackage{microtype} 			% Melhorias de justificação
-\graphicspath{{figs/}}
+
 \usepackage[table,xcdraw]{xcolor}
 % ---------------------
 		
@@ -145,7 +146,7 @@
 
 \include{capitulos/desenvolvimento}
 
-%\include{capitulos/conclusao}
+\include{capitulos/conclusao}
 
 % ----------------------------------------------------------
 % ELEMENTOS PÓS-TEXTUAIS (Referências, Glossário, Apêndices)
