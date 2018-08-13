@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.8.3)  3 AUG 2018 17:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.8.2)  10 AUG 2018 15:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1125,6 +1125,43 @@ Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
 \AP@partial=\box34
 \AP@footins=\box35
 )
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count187
+\lst@gtempboxa=\box36
+\lst@token=\toks35
+\lst@length=\count188
+\lst@currlwidth=\dimen179
+\lst@column=\count189
+\lst@pos=\count190
+\lst@lostspace=\dimen180
+\lst@width=\dimen181
+\lst@newlines=\count191
+\lst@lineno=\count192
+\lst@maxwidth=\dimen182
+
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count193
+\lst@skipnumbers=\count194
+\lst@framebox=\box37
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count266
+\float@exts=\toks36
+\float@box=\box38
+\@float@everytoks=\toks37
+\@floatcapt=\box39
+)
+(./arduinoLanguage.tex
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/courier.sty
+Package: courier 2005/04/12 PSNFSS-v9.2a (WaS) 
+))
 (/usr/share/texlive/texmf-dist/tex/latex/glossaries/base/glossaries.sty
 Package: glossaries 2016/01/24 v4.21 (NLCT)
 
@@ -1133,10 +1170,10 @@ Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 
 (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
 (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks35
-\XKV@tempa@toks=\toks36
+\XKV@toks=\toks38
+\XKV@tempa@toks=\toks39
 )
-\XKV@depth=\count187
+\XKV@depth=\count267
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/mfirstuc/mfirstuc.sty
@@ -1144,10 +1181,10 @@ Package: mfirstuc 2015/12/17 v2.02 (NLCT)
 
 (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2015/08/02 v2.2a e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count188
+\etb@tempcnta=\count268
 )
-\@glsmfirst=\toks37
-\@glsmrest=\toks38
+\@glsmfirst=\toks40
+\@glsmrest=\toks41
 )
 (/usr/share/texlive/texmf-dist/tex/latex/xfor/xfor.sty
 Package: xfor 2009/02/05 v1.05 (NLCT)
@@ -1157,7 +1194,7 @@ Package: datatool-base 2016/01/18 v2.25 (NLCT)
 
 (/usr/share/texlive/texmf-dist/tex/latex/substr/substr.sty
 Package: substr 2009/10/20 v1.2 Handle substrings
-\c@su@anzahl=\count189
+\c@su@anzahl=\count269
 )
 (/usr/share/texlive/texmf-dist/tex/latex/datatool/datatool-fp.sty
 Package: datatool-fp 2016/01/18 v2.25 (NLCT)
@@ -1168,19 +1205,19 @@ Package: fp 1995/04/02
 `Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich
 (/usr/share/texlive/texmf-dist/tex/latex/fp/defpattern.sty
 Package: defpattern 1994/10/12
-\actioncount=\count190
+\actioncount=\count270
 )
 (/usr/share/texlive/texmf-dist/tex/latex/fp/fp-basic.sty
 Package: fp-basic 1996/05/13
-\FP@xs=\count191
-\FP@xia=\count192
-\FP@xib=\count193
-\FP@xfa=\count194
-\FP@xfb=\count266
-\FP@rega=\count267
-\FP@regb=\count268
-\FP@regs=\count269
-\FP@times=\count270
+\FP@xs=\count271
+\FP@xia=\count272
+\FP@xib=\count273
+\FP@xfa=\count274
+\FP@xfb=\count275
+\FP@rega=\count276
+\FP@regb=\count277
+\FP@regs=\count278
+\FP@times=\count279
 )
 (/usr/share/texlive/texmf-dist/tex/latex/fp/fp-addons.sty
 Package: fp-addons 1995/03/15
@@ -1199,7 +1236,7 @@ Package: fp-pas 1994/08/29
 )
 (/usr/share/texlive/texmf-dist/tex/latex/fp/fp-random.sty
 Package: fp-random 1995/02/23
-\FPseed=\count271
+\FPseed=\count280
 )
 (/usr/share/texlive/texmf-dist/tex/latex/fp/fp-eqn.sty
 Package: fp-eqn 1995/04/03
@@ -1210,15 +1247,15 @@ Package: fp-upn 1996/10/21
 (/usr/share/texlive/texmf-dist/tex/latex/fp/fp-eval.sty
 Package: fp-eval 1995/04/03
 )))
-\@dtl@toks=\toks39
-\@dtl@tmpcount=\count272
+\@dtl@toks=\toks42
+\@dtl@tmpcount=\count281
 \dtl@tmplength=\skip267
-\dtl@sortresult=\count273
-\@dtl@numgrpsepcount=\count274
-\@dtl@datatype=\count275
-\dtl@codeA=\count276
-\dtl@codeB=\count277
-\@dtl@foreach@level=\count278
+\dtl@sortresult=\count282
+\@dtl@numgrpsepcount=\count283
+\@dtl@datatype=\count284
+\dtl@codeA=\count285
+\dtl@codeB=\count286
+\@dtl@foreach@level=\count287
 )
 (/usr/share/texlive/texmf-dist/tex/latex/glossaries/base/glossaries-compatible-
 307.sty
@@ -1242,8 +1279,8 @@ s-utf8.ldf))
 ldf
 File: glossaries-english.ldf 2014/11/23 v1.0
 )
-\gls@level=\count279
-\@gls@tmpb=\toks40
+\gls@level=\count288
+\@gls@tmpb=\toks43
 \gls@tmplen=\skip268
 
 
@@ -1253,10 +1290,10 @@ Package glossaries Warning: Overriding \printglossary on input line 5218.
 Package glossaries Warning: Overriding `theglossary' environment on input line 
 5868.
 
-\glskeylisttok=\toks41
-\glslabeltok=\toks42
-\glsshorttok=\toks43
-\glslongtok=\toks44
+\glskeylisttok=\toks44
+\glslabeltok=\toks45
+\glsshorttok=\toks46
+\glslongtok=\toks47
 
 (/usr/share/texlive/texmf-dist/tex/latex/glossaries/styles/glossary-hypernav.st
 y
@@ -1273,17 +1310,17 @@ Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
 \LTright=\skip271
 \LTpre=\skip272
 \LTpost=\skip273
-\LTchunksize=\count280
-\LTcapwidth=\dimen179
-\LT@head=\box36
-\LT@firsthead=\box37
-\LT@foot=\box38
-\LT@lastfoot=\box39
-\LT@cols=\count281
-\LT@rows=\count282
-\c@LT@tables=\count283
-\c@LT@chunks=\count284
-\LT@p@ftn=\toks45
+\LTchunksize=\count289
+\LTcapwidth=\dimen183
+\LT@head=\box40
+\LT@firsthead=\box41
+\LT@foot=\box42
+\LT@lastfoot=\box43
+\LT@cols=\count290
+\LT@rows=\count291
+\c@LT@tables=\count292
+\c@LT@chunks=\count293
+\LT@p@ftn=\toks48
 )
 \glsdescwidth=\skip274
 \glspagelistwidth=\skip275
@@ -1293,22 +1330,22 @@ Package: glossary-super 2016/01/24 v4.21 (NLCT)
 
 (/usr/share/texlive/texmf-dist/tex/latex/supertabular/supertabular.sty
 Package: supertabular 2004/02/20 v4.1e the supertabular environment
-\c@tracingst=\count285
-\ST@wd=\dimen180
+\c@tracingst=\count294
+\ST@wd=\dimen184
 \ST@rightskip=\skip276
 \ST@leftskip=\skip277
 \ST@parfillskip=\skip278
-\ST@pageleft=\dimen181
-\ST@headht=\dimen182
-\ST@tailht=\dimen183
-\ST@pagesofar=\dimen184
-\ST@pboxht=\dimen185
-\ST@lineht=\dimen186
-\ST@stretchht=\dimen187
-\ST@prevht=\dimen188
-\ST@toadd=\dimen189
-\ST@dimen=\dimen190
-\ST@pbox=\box40
+\ST@pageleft=\dimen185
+\ST@headht=\dimen186
+\ST@tailht=\dimen187
+\ST@pagesofar=\dimen188
+\ST@pboxht=\dimen189
+\ST@lineht=\dimen190
+\ST@stretchht=\dimen191
+\ST@prevht=\dimen192
+\ST@toadd=\dimen193
+\ST@dimen=\dimen194
+\ST@pbox=\box44
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/glossaries/styles/glossary-tree.sty
 Package: glossary-tree 2016/01/24 v4.21 (NLCT)
@@ -1319,7 +1356,7 @@ Package: glossary-tree 2016/01/24 v4.21 (NLCT)
 \glo@main@file=\write5
 \openout5 = `main.glo'.
 
-Package glossaries Info: Writing glossary file main.glo on input line 62.
+Package glossaries Info: Writing glossary file main.glo on input line 61.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/backref.sty
 Package: backref 2012/07/25 v1.38 Bibliographical back referencing
@@ -1330,8 +1367,8 @@ Package: abntex2cite 2016/02/26 v-1.9.6 abnTeX2
 (/usr/share/texlive/texmf-dist/tex/latex/abntex2/abntex2abrev.sty)
 \minimumbiblabelwidth=\skip280
 \ABCIauxlen=\skip281
-\c@ABCIaux=\count286
-\c@ABCImax=\count287
+\c@ABCIaux=\count295
+\c@ABCImax=\count296
 
 (/usr/share/texlive/texmf-dist/tex/latex/relsize/relsize.sty
 Package: relsize 2013/03/29 ver 4.1
@@ -1339,19 +1376,19 @@ Package: relsize 2013/03/29 ver 4.1
 \biblabelsep=\skip282
 LaTeX Info: Redefining \newblock on input line 591.
 LaTeX Info: Redefining \cite on input line 618.
-\ABCItoken=\toks46
+\ABCItoken=\toks49
 )
 (/usr/share/texlive/texmf-dist/tex/generic/ulem/ulem.sty
-\UL@box=\box41
-\UL@hyphenbox=\box42
+\UL@box=\box45
+\UL@hyphenbox=\box46
 \UL@skip=\skip283
-\UL@hook=\toks47
-\UL@height=\dimen191
-\UL@pe=\count288
-\UL@pixel=\dimen192
-\ULC@box=\box43
+\UL@hook=\toks50
+\UL@height=\dimen256
+\UL@pe=\count297
+\UL@pixel=\dimen257
+\ULC@box=\box47
 Package: ulem 2012/05/18
-\ULdepth=\dimen193
+\ULdepth=\dimen258
 )
 \@input{extras/conf_citacoes.aux}
 \openout2 = `extras/conf_citacoes.aux'.
@@ -1393,8 +1430,11 @@ LaTeX Warning: Unused global option(s):
     [book].
 
 (./main.aux (./pretextual/capa.aux) (./capitulos/introducao.aux)
-(./capitulos/desenvolvimento.aux) (./capitulos/conclusao.aux)
-(./postextual/referencias.aux))
+(./capitulos/desenvolvimento.aux
+
+LaTeX Warning: Label `fig:tcp_config1' multiply defined.
+
+) (./postextual/referencias.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 114.
@@ -1415,7 +1455,7 @@ LaTeX Font Info:    Try loading font information for T1+lmr on input line 114.
  (/usr/share/texmf/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-\AtBeginShipoutBox=\box44
+\AtBeginShipoutBox=\box48
 Package hyperref Info: Link coloring ON on input line 114.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
@@ -1424,7 +1464,7 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count289
+\c@section@level=\count298
 )
 Redoing nameref's sectioning
 Redoing nameref's label
@@ -1432,24 +1472,24 @@ LaTeX Info: Redefining \nameref on input line 114.
 LaTeX Info: Redefining \ref on input line 114.
 LaTeX Info: Redefining \pageref on input line 114.
 LaTeX Info: Redefining \nameref on input line 114.
-\myptabbox=\box45
+\myptabbox=\box49
 \myptabboxwidth=\skip284
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
 (lastpage)             ! on input line 114.
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count290
-\scratchdimen=\dimen194
-\scratchbox=\box46
-\nofMPsegments=\count291
-\nofMParguments=\count292
-\everyMPshowfont=\toks48
-\MPscratchCnt=\count293
-\MPscratchDim=\dimen256
-\MPnumerator=\count294
-\makeMPintoPDFobject=\count295
-\everyMPtoPDFconversion=\toks49
+\scratchcounter=\count299
+\scratchdimen=\dimen259
+\scratchbox=\box50
+\nofMPsegments=\count300
+\nofMParguments=\count301
+\everyMPshowfont=\toks51
+\MPscratchCnt=\count302
+\MPscratchDim=\dimen260
+\MPnumerator=\count303
+\makeMPintoPDFobject=\count304
+\everyMPtoPDFconversion=\toks52
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
@@ -1467,6 +1507,8 @@ e
 ))
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: float package is loaded.
+Package caption Info: listings package is loaded.
 Package caption Info: longtable package is loaded.
 
 (/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty
@@ -1497,6 +1539,7 @@ Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 80.
 )
+\c@lstlisting=\count305
 \openout2 = `pretextual/capa.aux'.
 
 
@@ -1533,6 +1576,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 129--129
 
 Underfull \hbox (badness 10000) in paragraph at lines 129--129
 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--129
+\T1/lmr/bx/n/12 Coordenadora: \T1/lmr/m/n/12 (+20) Ana Be-a-triz Mar-tins
  []
 
 LaTeX Font Info:    Try loading font information for OT1+lmr on input line 129.
@@ -1603,58 +1651,162 @@ l.145 \include{capitulos/introducao}
 \openout2 = `capitulos/introducao.aux'.
 
  (./capitulos/introducao.tex
-LaTeX Font Info:    Try loading font information for OMS+lmr on input line 18.
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 20.
 
 (/usr/share/texmf/tex/latex/lm/omslmr.fd
 File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 18.
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 20.
  [2
 
 
-]) [3]
+]
+<figs/rtu_packet.png, id=65, 337.26pt x 96.36pt>
+File: figs/rtu_packet.png Graphic file (type png)
+ <use figs/rtu_packet.png>
+Package pdftex.def Info: figs/rtu_packet.png used on input line 42.
+(pdftex.def)             Requested size: 227.5pt x 65.00047pt.
+
+[3 <./figs/rtu_packet.png>]
+<figs/tcp_packet.png, id=75, 289.08pt x 65.24374pt>
+File: figs/tcp_packet.png Graphic file (type png)
+ <use figs/tcp_packet.png>
+Package pdftex.def Info: figs/tcp_packet.png used on input line 52.
+(pdftex.def)             Requested size: 273.00278pt x 61.61781pt.
+)
+[4 <./figs/tcp_packet.png>]
 \openout2 = `capitulos/desenvolvimento.aux'.
 
+ (./capitulos/desenvolvimento.tex
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 5.
 
-(./capitulos/desenvolvimento.tex
-<figs/obs_cam.png, id=51, 1095.09125pt x 235.88126pt>
-File: figs/obs_cam.png Graphic file (type png)
- <use figs/obs_cam.png>
-Package pdftex.def Info: figs/obs_cam.png used on input line 15.
-(pdftex.def)             Requested size: 455.0pt x 98.00766pt.
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pcr.fd
+File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
+)
+Package microtype Info: Loading generic settings for font family
+(microtype)             `pcr' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
 
-
-Package caption Warning: \label without proper reference on input line 26.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `fig:obs_raio' on page 4 undefined on input line 22.
-
-<figs/obs_raio.png, id=53, 406.51875pt x 250.9375pt>
-File: figs/obs_raio.png Graphic file (type png)
- <use figs/obs_raio.png>
-Package pdftex.def Info: figs/obs_raio.png used on input line 25.
-(pdftex.def)             Requested size: 181.99722pt x 112.34264pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-) [4
-
-
-
- <./figs/obs_cam.png>] [5 <./figs/obs_raio.png>]
-\openout2 = `capitulos/conclusao.aux'.
-
- (./capitulos/conclusao.tex) [6
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+) [5
 
 
 
 ]
+LaTeX Font Info:    Font shape `T1/pcr/bx/n' in size <12> not available
+(Font)              Font shape `T1/pcr/b/n' tried instead on input line 44.
+ [6] [7]
+[8] [9] [10] [11] <figs/configTCP-PC.PNG, id=335, 287.22693pt x 341.58385pt>
+File: figs/configTCP-PC.PNG Graphic file (type png)
+
+<use figs/configTCP-PC.PNG>
+Package pdftex.def Info: figs/configTCP-PC.PNG used on input line 265.
+(pdftex.def)             Requested size: 273.00278pt x 324.67479pt.
+ [12]
+<figs/configRTU.PNG, id=365, 444.12077pt x 375.55693pt>
+File: figs/configRTU.PNG Graphic file (type png)
+
+<use figs/configRTU.PNG>
+Package pdftex.def Info: figs/configRTU.PNG used on input line 276.
+(pdftex.def)             Requested size: 273.00278pt x 230.86584pt.
+ [13 <./figs/configTCP-PC.PNG>]
+<figs/configRTU2.PNG, id=372, 441.65pt x 373.08615pt>
+File: figs/configRTU2.PNG Graphic file (type png)
+
+<use figs/configRTU2.PNG>
+Package pdftex.def Info: figs/configRTU2.PNG used on input line 284.
+(pdftex.def)             Requested size: 273.00278pt x 230.62787pt.
+
+<figs/configRTU3.PNG, id=373, 444.12077pt x 376.17462pt>
+File: figs/configRTU3.PNG Graphic file (type png)
+
+<use figs/configRTU3.PNG>
+Package pdftex.def Info: figs/configRTU3.PNG used on input line 294.
+(pdftex.def)             Requested size: 273.00278pt x 231.24557pt.
+ [14 <./figs/configRTU.PNG> <./figs/configRTU2.PNG>]
+<figs/configTCP1.PNG, id=381, 444.12077pt x 372.46846pt>
+File: figs/configTCP1.PNG Graphic file (type png)
+
+<use figs/configTCP1.PNG>
+Package pdftex.def Info: figs/configTCP1.PNG used on input line 304.
+(pdftex.def)             Requested size: 273.00278pt x 228.96727pt.
+
+<figs/configTCP2.PNG, id=383, 443.50308pt x 374.32153pt>
+File: figs/configTCP2.PNG Graphic file (type png)
+
+<use figs/configTCP2.PNG>
+Package pdftex.def Info: figs/configTCP2.PNG used on input line 312.
+(pdftex.def)             Requested size: 273.00278pt x 230.41486pt.
+ [15 <./figs/configRTU3.PNG> <./figs/configTCP1.PNG>]
+<figs/configTCP3.PNG, id=391, 442.26768pt x 374.32153pt>
+File: figs/configTCP3.PNG Graphic file (type png)
+
+<use figs/configTCP3.PNG>
+Package pdftex.def Info: figs/configTCP3.PNG used on input line 321.
+(pdftex.def)             Requested size: 273.00278pt x 231.06598pt.
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <17.28> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 326.
+
+<figs/configRTU0.PNG, id=392, 715.28769pt x 138.98077pt>
+File: figs/configRTU0.PNG Graphic file (type png)
+
+<use figs/configRTU0.PNG>
+Package pdftex.def Info: figs/configRTU0.PNG used on input line 330.
+(pdftex.def)             Requested size: 455.0pt x 88.4066pt.
+ [16 <./figs/configTCP2.PNG> <./figs/configTCP3.PNG>]
+<figs/configTCP0.PNG, id=401, 724.55307pt x 137.74539pt>
+File: figs/configTCP0.PNG Graphic file (type png)
+
+<use figs/configTCP0.PNG>
+Package pdftex.def Info: figs/configTCP0.PNG used on input line 338.
+(pdftex.def)             Requested size: 455.0pt x 86.5026pt.
+
+<figs/telainterface1.PNG, id=402, 546.04pt x 421.26616pt>
+File: figs/telainterface1.PNG Graphic file (type png)
+
+<use figs/telainterface1.PNG>
+Package pdftex.def Info: figs/telainterface1.PNG used on input line 349.
+(pdftex.def)             Requested size: 273.00278pt x 210.61969pt.
+
+<figs/telainterface2.PNG, id=403, 361.35pt x 506.50769pt>
+File: figs/telainterface2.PNG Graphic file (type png)
+
+<use figs/telainterface2.PNG>
+Package pdftex.def Info: figs/telainterface2.PNG used on input line 356.
+(pdftex.def)             Requested size: 227.5pt x 318.89285pt.
+
+<figs/telainterface3.PNG, id=404, 388.52846pt x 489.21231pt>
+File: figs/telainterface3.PNG Graphic file (type png)
+
+<use figs/telainterface3.PNG>
+Package pdftex.def Info: figs/telainterface3.PNG used on input line 363.
+(pdftex.def)             Requested size: 227.5pt x 286.46051pt.
+ [17 <./figs/configRTU0.PNG> <./figs/configTCP0.PNG> <./figs/telainterface1.PNG
+>]) [18 <./figs/telainterface2.PNG> <./figs/telainterface3.PNG>]
 \openout2 = `postextual/referencias.aux'.
 
- (./postextual/referencias.tex) [7
+ (./postextual/referencias.tex
+Overfull \hbox (1.40483pt too wide) in paragraph at lines 7--8
+[]\T1/lmr/m/n/12 (-20) [2]Protocolo MOD-BUS - Dis-po-ní-vel em: https://www.emb
+arcados.com.br/protocolo-
+ []
+
+)
+Overfull \hbox (81.21169pt too wide) in paragraph at lines 9--156
+[]\T1/lmr/m/n/12 (-20) [3]Modbus RTU Un-plug-ged - Dis-po-ní-vel em: https://ww
+w.rtaautomation.com/technologies/modbus-
+ []
+
+[19
 
 
 ] 
@@ -1670,36 +1822,40 @@ This document will not have a glossary.
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 171.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 171.
 (./main.aux (./pretextual/capa.aux) (./capitulos/introducao.aux)
-(./capitulos/desenvolvimento.aux) (./capitulos/conclusao.aux)
-(./postextual/referencias.aux))
+(./capitulos/desenvolvimento.aux) (./postextual/referencias.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 171.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 171.
 
 
-LaTeX Warning: There were undefined references.
+LaTeX Warning: There were multiply-defined labels.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 171.
  ) 
 Here is how much of TeX's memory you used:
- 20771 strings out of 493029
- 313911 string characters out of 6136235
- 641009 words of memory out of 5000000
- 23758 multiletter control sequences out of 15000+600000
- 69382 words of font info for 81 fonts, out of 8000000 for 9000
+ 23322 strings out of 493029
+ 348614 string characters out of 6136235
+ 795323 words of memory out of 5000000
+ 25972 multiletter control sequences out of 15000+600000
+ 75312 words of font info for 105 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 51i,12n,79p,1949b,472s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 64i,13n,126p,1949b,2300s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dv
-ips/lm/lm-mathsy.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/s
-hare/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public
-/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/te
-xmf/fonts/type1/public/lm/lmri12.pfb></usr/share/texmf/fonts/type1/public/lm/lm
-ss12.pfb></usr/share/texmf/fonts/type1/public/lm/lmss17.pfb></usr/share/texmf/f
-onts/type1/public/lm/lmssbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy1
-0.pfb>
-Output written on main.pdf (9 pages, 338809 bytes).
+ips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share
+/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texmf/fonts/enc/dvi
+ps/lm/lm-mathsy.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/sh
+are/texmf/fonts/type1/public/lm/lmmi12.pfb></usr/share/texmf/fonts/type1/public
+/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/tex
+mf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr
+i12.pfb></usr/share/texmf/fonts/type1/public/lm/lmss12.pfb></usr/share/texmf/fo
+nts/type1/public/lm/lmss17.pfb></usr/share/texmf/fonts/type1/public/lm/lmssbx10
+.pfb></usr/share/texmf/fonts/type1/public/lm/lmsso17.pfb></usr/share/texmf/font
+s/type1/public/lm/lmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/cou
+rier/ucrb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrr8a.p
+fb>
+Output written on main.pdf (21 pages, 565043 bytes).
 PDF statistics:
- 205 PDF objects out of 1000 (max. 8388607)
- 180 compressed objects within 2 object streams
- 37 named destinations out of 1000 (max. 500000)
- 22232 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 595 PDF objects out of 1000 (max. 8388607)
+ 526 compressed objects within 6 object streams
+ 290 named destinations out of 1000 (max. 500000)
+ 23780 words of extra memory for PDF output out of 24883 (max. 10000000)
 

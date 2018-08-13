@@ -1,3 +1,15 @@
 \select@language {brazil}
-\contentsline {figure}{\numberline {1}{\ignorespaces Gr\IeC {\'a}fico de obst\IeC {\'a}culo\relax }}{4}{figure.caption.3}
-\contentsline {figure}{\numberline {2}{\ignorespaces Curvatura parab\IeC {\'o}lica utilizada para aproxima\IeC {\c c}\IeC {\~a}o\relax }}{5}{figure.caption.4}
+\contentsline {figure}{\numberline {1}{\ignorespaces Pacote da comunica\IeC {\c c}\IeC {\~a}o RTU\relax }}{3}{figure.caption.3}
+\contentsline {figure}{\numberline {2}{\ignorespaces Pacote da comunica\IeC {\c c}\IeC {\~a}o TCP\relax }}{4}{figure.caption.4}
+\contentsline {figure}{\numberline {3}{\ignorespaces Configura\IeC {\c c}\IeC {\~a}o do computador para comunica\IeC {\c c}\IeC {\~a}o TCP\relax }}{13}{figure.caption.5}
+\contentsline {figure}{\numberline {4}{\ignorespaces Etapa 1 da configura\IeC {\c c}\IeC {\~a}o RTU\relax }}{14}{figure.caption.6}
+\contentsline {figure}{\numberline {5}{\ignorespaces Etapa 2 da configura\IeC {\c c}\IeC {\~a}o RTU\relax }}{14}{figure.caption.7}
+\contentsline {figure}{\numberline {6}{\ignorespaces Etapa 3 da configura\IeC {\c c}\IeC {\~a}o RTU\relax }}{15}{figure.caption.8}
+\contentsline {figure}{\numberline {7}{\ignorespaces Etapa 1 da configura\IeC {\c c}\IeC {\~a}o TCP\relax }}{15}{figure.caption.9}
+\contentsline {figure}{\numberline {8}{\ignorespaces Etapa 2 da configura\IeC {\c c}\IeC {\~a}o TCP\relax }}{16}{figure.caption.10}
+\contentsline {figure}{\numberline {9}{\ignorespaces Etapa 3 da configura\IeC {\c c}\IeC {\~a}o TCP\relax }}{16}{figure.caption.11}
+\contentsline {figure}{\numberline {10}{\ignorespaces Driver RTU\relax }}{17}{figure.caption.12}
+\contentsline {figure}{\numberline {11}{\ignorespaces Driver TCP\relax }}{17}{figure.caption.13}
+\contentsline {figure}{\numberline {12}{\ignorespaces Tela de sele\IeC {\c c}\IeC {\~a}o do modo de comunica\IeC {\c c}\IeC {\~a}o\relax }}{17}{figure.caption.14}
+\contentsline {figure}{\numberline {13}{\ignorespaces Tela comunica\IeC {\c c}\IeC {\~a}o TCP\relax }}{18}{figure.caption.15}
+\contentsline {figure}{\numberline {14}{\ignorespaces Tela comunica\IeC {\c c}\IeC {\~a}o RTU\relax }}{18}{figure.caption.16}

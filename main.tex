@@ -37,16 +37,12 @@
 \graphicspath{{figs/}}
 \usepackage{epsfig,subfig}		% Inclusão de figuras
 \usepackage{microtype} 			% Melhorias de justificação
-
 \usepackage[table,xcdraw]{xcolor}
-% ---------------------
-		
+% ---------------------	
 % ---------------------
 % Pacotes ADICIONAIS
 % ---------------------
 \usepackage{pdfpages}
-
-
 \usepackage{lipsum}						% Geração de dummy text
 \usepackage{amsmath,amssymb,mathrsfs}	% Comandos matemáticos avançados 
 \usepackage{setspace}  					% Para permitir espaçamento simples, 1 1/2 e duplo
@@ -54,7 +50,10 @@
 \usepackage{tabularx} 					% Para poder ter tabelas com colunas de largura auto-ajustável
 \usepackage{afterpage} 					% Para executar um comando depois do fim da página corrente
 \usepackage{url} 						% Para formatar URLs (endereços da Web)
-
+%pacote arduino
+\usepackage{listings} 
+\usepackage{float}
+\input{arduinoLanguage.tex} 
 %\usepackage[style=long,nonumberlist,toc,xindy,nomain]{glossaries}
 				% para fazer glossario	
 \usepackage{glossaries}	
@@ -68,6 +67,8 @@
 	\def\@currentlabel{#2}%
 	\phantomsection\label{#1}\endgroup
 }
+
+
 % ---------------------
 
 % ---------------------
@@ -105,7 +106,6 @@
 % ---------------------
 \makeindex
 % ---------------------
-
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -146,7 +146,7 @@
 
 \include{capitulos/desenvolvimento}
 
-\include{capitulos/conclusao}
+%\include{capitulos/conclusao}
 
 % ----------------------------------------------------------
 % ELEMENTOS PÓS-TEXTUAIS (Referências, Glossário, Apêndices)
