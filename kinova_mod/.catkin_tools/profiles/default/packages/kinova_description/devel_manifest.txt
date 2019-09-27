@@ -1,0 +1,5 @@
+kinova-ros/kinova_description
+/home/daviz/kinova_mod/devel/.private/kinova_description/cmake.lock /home/daviz/kinova_mod/devel/./cmake.lock
+/home/daviz/kinova_mod/devel/.private/kinova_description/share/kinova_description/cmake/kinova_descriptionConfig-version.cmake /home/daviz/kinova_mod/devel/share/kinova_description/cmake/kinova_descriptionConfig-version.cmake
+/home/daviz/kinova_mod/devel/.private/kinova_description/share/kinova_description/cmake/kinova_descriptionConfig.cmake /home/daviz/kinova_mod/devel/share/kinova_description/cmake/kinova_descriptionConfig.cmake
+/home/daviz/kinova_mod/devel/.private/kinova_description/lib/pkgconfig/kinova_description.pc /home/daviz/kinova_mod/devel/lib/pkgconfig/kinova_description.pc

@@ -1,0 +1,1 @@
+/home/daviz/kinova_mod/devel/.private/kinova_msgs/share/roseus/ros/kinova_msgs/msg/Arm_KinovaPoseFeedback.l

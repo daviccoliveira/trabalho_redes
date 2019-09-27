@@ -1,0 +1,4 @@
+Symlinking /home/daviz/kinova_mod/devel/share/kinova_demo/cmake/kinova_demoConfig.cmake
+Symlinking /home/daviz/kinova_mod/devel/share/kinova_demo/cmake/kinova_demoConfig-version.cmake
+Symlinking /home/daviz/kinova_mod/devel/lib/pkgconfig/kinova_demo.pc
+Symlinking /home/daviz/kinova_mod/devel/lib/python2.7/dist-packages/kinova_demo/__init__.py

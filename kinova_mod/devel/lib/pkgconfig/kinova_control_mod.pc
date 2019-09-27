@@ -1,0 +1,1 @@
+/home/daviz/kinova_mod/devel/.private/kinova_control_mod/lib/pkgconfig/kinova_control_mod.pc

@@ -1,0 +1,6 @@
+devel_space: /home/daviz/kinova_mod/devel
+install: false
+install_space: /home/daviz/kinova_mod/install
+profile: default
+source_space: /home/daviz/kinova_mod/src
+workspace: /home/daviz/kinova_mod

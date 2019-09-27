@@ -1,0 +1,1 @@
+/home/daviz/kinova_mod/devel/.private/kinova_description_mod/share/kinova_description_mod/cmake/kinova_description_modConfig-version.cmake

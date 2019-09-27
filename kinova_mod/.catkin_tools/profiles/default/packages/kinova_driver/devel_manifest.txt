@@ -1,0 +1,13 @@
+kinova-ros/kinova_driver
+/home/daviz/kinova_mod/devel/.private/kinova_driver/cmake.lock /home/daviz/kinova_mod/devel/./cmake.lock
+/home/daviz/kinova_mod/devel/.private/kinova_driver/share/kinova_driver/cmake/kinova_driverConfig-version.cmake /home/daviz/kinova_mod/devel/share/kinova_driver/cmake/kinova_driverConfig-version.cmake
+/home/daviz/kinova_mod/devel/.private/kinova_driver/share/kinova_driver/cmake/kinova_driverConfig.cmake /home/daviz/kinova_mod/devel/share/kinova_driver/cmake/kinova_driverConfig.cmake
+/home/daviz/kinova_mod/devel/.private/kinova_driver/lib/libkinova_driver.so /home/daviz/kinova_mod/devel/lib/libkinova_driver.so
+/home/daviz/kinova_mod/devel/.private/kinova_driver/lib/kinova_driver/kinova_arm_driver /home/daviz/kinova_mod/devel/lib/kinova_driver/kinova_arm_driver
+/home/daviz/kinova_mod/devel/.private/kinova_driver/lib/kinova_driver/joint_trajectory_action_server /home/daviz/kinova_mod/devel/lib/kinova_driver/joint_trajectory_action_server
+/home/daviz/kinova_mod/devel/.private/kinova_driver/lib/kinova_driver/kinova_interactive_control /home/daviz/kinova_mod/devel/lib/kinova_driver/kinova_interactive_control
+/home/daviz/kinova_mod/devel/.private/kinova_driver/lib/kinova_driver/gripper_command_action_server /home/daviz/kinova_mod/devel/lib/kinova_driver/gripper_command_action_server
+/home/daviz/kinova_mod/devel/.private/kinova_driver/lib/kinova_driver/kinova_tf_updater /home/daviz/kinova_mod/devel/lib/kinova_driver/kinova_tf_updater
+/home/daviz/kinova_mod/devel/.private/kinova_driver/lib/pkgconfig/kinova_driver.pc /home/daviz/kinova_mod/devel/lib/pkgconfig/kinova_driver.pc
+/home/daviz/kinova_mod/devel/.private/kinova_driver/lib/python2.7/dist-packages/kinova_driver/__init__.py /home/daviz/kinova_mod/devel/lib/python2.7/dist-packages/kinova_driver/__init__.py
+/home/daviz/kinova_mod/devel/.private/kinova_driver/lib/python2.7/dist-packages/kinova_driver/cfg/__init__.py /home/daviz/kinova_mod/devel/lib/python2.7/dist-packages/kinova_driver/cfg/__init__.py

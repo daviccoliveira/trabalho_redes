@@ -1,0 +1,5 @@
+kinova-ros/kinova_gazebo
+/home/daviz/kinova_mod/devel/.private/kinova_gazebo/cmake.lock /home/daviz/kinova_mod/devel/./cmake.lock
+/home/daviz/kinova_mod/devel/.private/kinova_gazebo/share/kinova_gazebo/cmake/kinova_gazeboConfig-version.cmake /home/daviz/kinova_mod/devel/share/kinova_gazebo/cmake/kinova_gazeboConfig-version.cmake
+/home/daviz/kinova_mod/devel/.private/kinova_gazebo/share/kinova_gazebo/cmake/kinova_gazeboConfig.cmake /home/daviz/kinova_mod/devel/share/kinova_gazebo/cmake/kinova_gazeboConfig.cmake
+/home/daviz/kinova_mod/devel/.private/kinova_gazebo/lib/pkgconfig/kinova_gazebo.pc /home/daviz/kinova_mod/devel/lib/pkgconfig/kinova_gazebo.pc

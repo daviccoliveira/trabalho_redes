@@ -1,0 +1,8 @@
+prefix=/home/daviz/kinova_mod/devel/.private/kinova_control_mod
+
+Name: kinova_control_mod
+Description: Description of kinova_control_mod
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/daviz/kinova_mod/devel/.private/kinova_control_mod/lib 
+Requires: 

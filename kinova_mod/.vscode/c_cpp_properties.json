@@ -1,0 +1,33 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/daviz/kinova_mod/devel/include/**",
+        "/home/daviz/catkin_ws/devel/include/**",
+        "/home/daviz/catkin_ws2/devel/include/**",
+        "/opt/ros/kinetic/include/**",
+        "/home/daviz/catkin_ws/src/actionlib_tutorials/include/**",
+        "/home/daviz/kinova_mod/src/kinova-ros/kinova_moveit/inverse_kinematics_plugins/ikfast/j2n6s300_ikfast/include/**",
+        "/home/daviz/kinova_mod/src/kinova-ros/kinova_moveit/inverse_kinematics_plugins/ikfast/j2s6s300_ikfast/include/**",
+        "/home/daviz/kinova_mod/src/kinova-ros/kinova_moveit/inverse_kinematics_plugins/ikfast/j2s7s300_ikfast/include/**",
+        "/home/daviz/jaco_ws/src/jaco_b/jacob_control/include/**",
+        "/home/daviz/kinova_mod/src/kinova-ros/kinova_moveit/kinova_arm_moveit_demo/include/**",
+        "/home/daviz/kinova_mod/src/kinova-ros/kinova_driver/include/**",
+        "/home/daviz/catkin_ws/src/learning_tf/include/**",
+        "/home/daviz/kinova_mod/src/kinova-ros/kinova_moveit/inverse_kinematics_plugins/ikfast/m1n6s300_ikfast/include/**",
+        "/home/daviz/catkin_ws/src/msub_marker_localization/include/**",
+        "/home/daviz/catkin_ws2/src/msub_poc_manip/include/**",
+        "/home/daviz/catkin_ws/src/pylon_camera/include/**",
+        "/home/daviz/catkin_ws/src/teleop_twist_joy/include/**",
+        "/home/daviz/catkin_ws/src/universal_robot/ur_kinematics/include/**",
+        "/home/daviz/catkin_ws/src/joystick_drivers/wiimote/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ]
+}

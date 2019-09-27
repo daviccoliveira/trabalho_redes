@@ -1,0 +1,1 @@
+/home/daviz/kinova_mod/devel/.private/j2n6s300_moveit_config/lib/pkgconfig/j2n6s300_moveit_config.pc

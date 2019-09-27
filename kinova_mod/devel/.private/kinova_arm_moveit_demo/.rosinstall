@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/daviz/kinova_mod/devel/.private/kinova_arm_moveit_demo/setup.sh

@@ -1,0 +1,1 @@
+/home/daviz/kinova_mod/devel/.private/kinova_bringup/share/kinova_bringup/cmake/kinova_bringupConfig-version.cmake

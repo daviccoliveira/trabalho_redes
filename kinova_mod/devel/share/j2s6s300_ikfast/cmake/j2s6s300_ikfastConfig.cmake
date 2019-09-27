@@ -1,0 +1,1 @@
+/home/daviz/kinova_mod/devel/.private/j2s6s300_ikfast/share/j2s6s300_ikfast/cmake/j2s6s300_ikfastConfig.cmake

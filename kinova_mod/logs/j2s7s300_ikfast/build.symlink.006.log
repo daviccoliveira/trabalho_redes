@@ -1,0 +1,4 @@
+Symlinking /home/daviz/kinova_mod/devel/share/j2s7s300_ikfast/cmake/j2s7s300_ikfastConfig.cmake
+Symlinking /home/daviz/kinova_mod/devel/share/j2s7s300_ikfast/cmake/j2s7s300_ikfastConfig-version.cmake
+Symlinking /home/daviz/kinova_mod/devel/lib/libj2s7s300_robot_arm_moveit_ikfast_plugin.so
+Symlinking /home/daviz/kinova_mod/devel/lib/pkgconfig/j2s7s300_ikfast.pc

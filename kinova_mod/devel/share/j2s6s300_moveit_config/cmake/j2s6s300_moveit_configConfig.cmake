@@ -1,0 +1,1 @@
+/home/daviz/kinova_mod/devel/.private/j2s6s300_moveit_config/share/j2s6s300_moveit_config/cmake/j2s6s300_moveit_configConfig.cmake

@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target j2s7s300_robot_arm_moveit_ikfast_plugin[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/j2s7s300_robot_arm_moveit_ikfast_plugin.dir/src/j2s7s300_robot_arm_ikfast_moveit_plugin.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/daviz/kinova_mod/devel/.private/j2s7s300_ikfast/lib/libj2s7s300_robot_arm_moveit_ikfast_plugin.so[0m
+[100%] Built target j2s7s300_robot_arm_moveit_ikfast_plugin

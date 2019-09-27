@@ -1,0 +1,4 @@
+Symlinking /home/daviz/kinova_mod/devel/share/m1n6s300_ikfast/cmake/m1n6s300_ikfastConfig.cmake
+Symlinking /home/daviz/kinova_mod/devel/share/m1n6s300_ikfast/cmake/m1n6s300_ikfastConfig-version.cmake
+Symlinking /home/daviz/kinova_mod/devel/lib/libm1n6s300_mico_arm_moveit_ikfast_plugin.so
+Symlinking /home/daviz/kinova_mod/devel/lib/pkgconfig/m1n6s300_ikfast.pc

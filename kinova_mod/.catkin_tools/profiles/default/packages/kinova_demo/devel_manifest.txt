@@ -1,0 +1,6 @@
+kinova-ros/kinova_demo
+/home/daviz/kinova_mod/devel/.private/kinova_demo/cmake.lock /home/daviz/kinova_mod/devel/./cmake.lock
+/home/daviz/kinova_mod/devel/.private/kinova_demo/share/kinova_demo/cmake/kinova_demoConfig.cmake /home/daviz/kinova_mod/devel/share/kinova_demo/cmake/kinova_demoConfig.cmake
+/home/daviz/kinova_mod/devel/.private/kinova_demo/share/kinova_demo/cmake/kinova_demoConfig-version.cmake /home/daviz/kinova_mod/devel/share/kinova_demo/cmake/kinova_demoConfig-version.cmake
+/home/daviz/kinova_mod/devel/.private/kinova_demo/lib/pkgconfig/kinova_demo.pc /home/daviz/kinova_mod/devel/lib/pkgconfig/kinova_demo.pc
+/home/daviz/kinova_mod/devel/.private/kinova_demo/lib/python2.7/dist-packages/kinova_demo/__init__.py /home/daviz/kinova_mod/devel/lib/python2.7/dist-packages/kinova_demo/__init__.py
